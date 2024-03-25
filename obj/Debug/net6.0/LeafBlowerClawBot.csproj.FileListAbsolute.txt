@@ -1,0 +1,15 @@
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0\LeafBlowerClawBot.exe
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0\LeafBlowerClawBot.deps.json
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0\LeafBlowerClawBot.runtimeconfig.json
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0\LeafBlowerClawBot.dll
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0\LeafBlowerClawBot.pdb
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\LeafBlowerClawBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\LeafBlowerClawBot.AssemblyInfoInputs.cache
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\LeafBlowerClawBot.AssemblyInfo.cs
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\LeafBlowerClawBot.csproj.CoreCompileInputs.cache
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\LeafBlowerClawBot.dll
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\refint\LeafBlowerClawBot.dll
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\LeafBlowerClawBot.pdb
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\LeafBlowerClawBot.genruntimeconfig.cache
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0\ref\LeafBlowerClawBot.dll
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0\ConsoleApp\appsettings.json
