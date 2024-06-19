@@ -1,0 +1,16 @@
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\LeafBlowerClawBot.csproj.ResolveComReference.cache
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\LeafBlowerClawBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\LeafBlowerClawBot.AssemblyInfoInputs.cache
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\LeafBlowerClawBot.AssemblyInfo.cs
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\LeafBlowerClawBot.csproj.CoreCompileInputs.cache
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0-windows\ConsoleApp\appsettings.json
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0-windows\LeafBlowerClawBot.exe
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0-windows\LeafBlowerClawBot.deps.json
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0-windows\LeafBlowerClawBot.runtimeconfig.json
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0-windows\LeafBlowerClawBot.dll
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\bin\Debug\net6.0-windows\LeafBlowerClawBot.pdb
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\LeafBlowerClawBot.dll
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\refint\LeafBlowerClawBot.dll
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\LeafBlowerClawBot.pdb
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\LeafBlowerClawBot.genruntimeconfig.cache
+C:\Users\Zanardi-trabalho\Documents\GitHub\LeafBlowerClawBot\LeafBlowerClawBot\obj\Debug\net6.0-windows\ref\LeafBlowerClawBot.dll
